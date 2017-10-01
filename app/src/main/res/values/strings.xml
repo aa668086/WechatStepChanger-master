@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WechatStepChanger</string>
+    <string name="load">LOAD</string>
+    <string name="store">STORE</string>
+    <string name="loaded">LOADED</string>
+    <string name="load_failed">LOAD FAILED</string>
+    <string name="stored">STORED</string>
+    <string name="store_failed">STORE FAILED</string>
+    <string name="current_today_step_201">Current Today Step</string>
+    <string name="save_today_time_202">Save Today Time</string>
+    <string name="pre_sensor_step_203">Pre Sensor Step</string>
+    <string name="last_save_step_time_204">Last Save Step Time</string>
+    <string name="sensor_time_stamp_209">Sensor Time Stamp</string>
+    <string name="details">Details</string>
+    <string name="back">BACK</string>
+    <string name="decrease">decrease steps</string>
+    <string name="increase">increase steps</string>
+    <string name="p_title">Getting Permissions</string>
+    <string name="p_message">Getting Read/Write Permissions ...</string>
+    <string name="a_title">Note:</string>
+    <string name="non_root">You don\'t have root access</string>
+    <string name="get_access_done">Done! Please Load Again!</string>
+</resources>
